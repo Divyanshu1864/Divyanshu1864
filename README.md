@@ -1,6 +1,6 @@
 # Hi there! I'm Divyanshu Parate 👋
 
-### AI Engineer @ KPMG AI Competency Center | Agentic AI | Generative AI Systems | Distributed Systems 
+### AI Engineer @ KPMG | Building Production Grade AI Systems | Agentic AI | Distributed Systems
 
 [LinkedIn](https://www.linkedin.com/in/divyanshu1864/) | [GitHub](https://github.com/Divyanshu1864/) | [LeetCode](https://leetcode.com/u/Divya1864/)
 
