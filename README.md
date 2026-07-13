@@ -2,7 +2,11 @@
 
 ### AI Engineer @ KPMG | Building Production Grade AI Systems | Agentic AI | Distributed Systems
 
-[LinkedIn](https://www.linkedin.com/in/divyanshu1864/) | [GitHub](https://github.com/Divyanshu1864/) | [LeetCode](https://leetcode.com/u/Divya1864/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/divyanshu1864/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Divyanshu1864/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/Divya1864/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
 ---
 
